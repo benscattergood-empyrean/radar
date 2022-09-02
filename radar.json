@@ -1,6 +1,13 @@
 [
   {
     "name": "Let's Encrypt",
+    "ring": "newRing",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=\"https://www.thoughtworks.com\">anchor links to documentation and referance material</a>."
+  },
+  {
+    "name": "Let's Encrypt",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "FALSE",
